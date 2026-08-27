@@ -7,6 +7,12 @@
 *.o
 *.obj
 
+# Built kernel driver
+*.sys
+
+# Test signing certificate / private key
+*.pfx
+
 # Precompiled Headers
 *.gch
 *.pch
